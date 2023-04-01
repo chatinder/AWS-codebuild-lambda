@@ -1,2 +1,2 @@
-# AWS-codebuild-lambda
-We will create cicd pipeline in aws using codebuild for lambda
+# codebuild-for-lambda
+This Repository contains the codes for CodeBuild project.
